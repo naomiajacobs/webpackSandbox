@@ -1,3 +1,1 @@
-Run `npm install` to install jQuery.
-
-Run `webpack ./sandbox.js bundle.js` again and take a look at the output. Notice that there is a 'hidden module' - this is your node module! If you want to see details about hidden modules, run `webpack ./sandbox.js bundle.js --display-modules`.
+We're moving our webpack CLI actions into a `webpack.config.js` file. Almost all of the time, you will use a config file to tell webpack what to do. Run `webpack` from the command line. It will look for a config file and should produce the same output we've seen so far. Take a look at the config and try to figure out what it's doing.
