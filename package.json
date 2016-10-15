@@ -1,0 +1,20 @@
+{
+  "name": "webpackSandbox",
+  "version": "1.0.0",
+  "description": "Install webpack globally if you don't already have it: `npm install -g webpack`.",
+  "main": "bundle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naomiajacobs/webpackSandbox.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/naomiajacobs/webpackSandbox/issues"
+  },
+  "homepage": "https://github.com/naomiajacobs/webpackSandbox#readme"
+}
