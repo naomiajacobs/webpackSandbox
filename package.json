@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/naomiajacobs/webpackSandbox/issues"
   },
-  "homepage": "https://github.com/naomiajacobs/webpackSandbox#readme"
+  "homepage": "https://github.com/naomiajacobs/webpackSandbox#readme",
+  "dependencies": {
+    "jquery": "^3.1.1"
+  }
 }
