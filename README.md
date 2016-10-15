@@ -1,7 +1,3 @@
-Install webpack globally if you don't already have it: `npm install -g webpack`.
+Run `npm install` to install jQuery.
 
-Then run `webpack ./sandbox.js bundle.js`.
-
-A new file called `bundle.js` should appear in your main directory. Open it up and take a look.
-
-Open `index.html` in a browser, open the console, and make sure you see the output. Open up the scripts and look to see your code.
+Run `webpack ./sandbox.js bundle.js` again and take a look at the output. Notice that there is a 'hidden module' - this is your node module! If you want to see details about hidden modules, run `webpack ./sandbox.js bundle.js --display-modules`.
